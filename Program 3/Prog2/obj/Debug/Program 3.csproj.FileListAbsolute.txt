@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Program 3\Prog2\bin\Debug\Prog2.exe.config
+\\Mac\Home\Desktop\Program 3\Prog2\bin\Debug\Prog2.exe
+\\Mac\Home\Desktop\Program 3\Prog2\bin\Debug\Prog2.pdb
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\UPVApp.AddressForm.resources
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\UPVApp.ChooseAddressForm.resources
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\UPVApp.LetterForm.resources
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\UPVApp.Prog2Form.resources
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\Program 3.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\Prog2.exe
+\\Mac\Home\Desktop\Program 3\Prog2\obj\Debug\Prog2.pdb
